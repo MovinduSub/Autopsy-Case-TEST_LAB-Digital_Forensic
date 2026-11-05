@@ -1,0 +1,22 @@
+Forensic Image Hash Report
+Timestamp: 2026-11-05 18:18:58 +05:30
+File: E:\GitHub\Autopsy-Case-TEST_LAB\WorkFile\2020JimmyWilson.E01
+
+
+
+Algorithm : MD5
+Hash      : 4193CC3BC7111DDF8BE7A00677F2A2F4
+Path      : E:\GitHub\Autopsy-Case-TEST_LAB\WorkFile\2020JimmyWilson.E01
+
+
+
+
+
+
+Algorithm : SHA256
+Hash      : 6C18F662744D55E2769D9510F6173F04DAB668C42B67EF27B675D22E628B4ED5
+Path      : E:\GitHub\Autopsy-Case-TEST_LAB\WorkFile\2020JimmyWilson.E01
+
+
+
+
